@@ -8,4 +8,4 @@ Offensive security. Pentesting, exploitation, red teaming.
   <img width="150" src="https://github.com/user-attachments/assets/4fdb964b-8795-4731-88b7-29a03a17bd81" alt="HTB CPTS" />
   <img width="150" src="https://github.com/user-attachments/assets/a6165130-0c0c-4ca7-9146-b47c5d1c2884" alt="Google Cybersecurity" />
 </p>
-completed the CWES pathway. Currently working through CGCA.
+completed the CWES pathway. Currently working through CJCA
